@@ -1,0 +1,6 @@
+export const ADD_USER = "ADD_USER";
+export const DELETE_USER = "DELETE_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const GET_ALL_USER = "GETALL_USER";
+export const START_ASYNC_REQUEST = "START_ASYNC_REQUEST";
+export const STOP_ASYNC_REQUEST = "STOP_ASYNC_REQUEST";

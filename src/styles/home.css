@@ -1,0 +1,30 @@
+.main-container{
+    padding-top: 30px;
+
+}
+.align-text-center{
+    text-align: center;
+}
+
+.title-container{
+    padding: 20px 5px;
+    overflow: auto;
+}
+.table th{
+    padding: 5px !important;
+    font-size: 13px;
+}
+.edit-user{
+    margin: 5px 5px;
+}
+.delete-user{
+    margin: 5px 5px;
+}
+.edit-user:hover{
+  color: orange;
+  cursor: pointer;
+}
+.delete-user:hover{
+    color: red;
+    cursor: pointer;
+}
